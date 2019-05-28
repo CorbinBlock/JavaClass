@@ -2,22 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a800ea3c-cbf1-460b-bb3b-0b90de9cbe43" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../AccountDemo/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AccountDemo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AccountDemo/AccountDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AccountDemo/src/com/company/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Circle/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Circle/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Circle/Circle.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dashboard.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Dashboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dice/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dice/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dice/Dice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dice/src/com/company/Dice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dice/src/com/company/Die.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Triangle/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Triangle/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Triangle/Triangle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Triangle/src/com/company/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Circle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Circle/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Circle/src/com/company/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Circle/src/com/company/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Circle/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Circle/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Dice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrafficLight/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TrafficLight/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="42" lean-forward="true" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+            <state relative-caret-position="323">
+              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -44,8 +38,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Dashboard.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            <state relative-caret-position="136">
+              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
               <folding>
                 <element signature="e#434#435#0" expanded="true" />
                 <element signature="e#486#487#0" expanded="true" />
@@ -69,24 +63,16 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
         <option value="$PROJECT_DIR$/src/com/company/Dashboard.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1098" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -125,6 +111,9 @@
       </pane>
       <pane id="Scope" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -166,10 +155,18 @@
       <option name="presentableId" value="Default" />
       <updated>1559058841190</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial">
+      <created>1559060537370</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1559060537370</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <frame x="1912" y="-8" width="1296" height="1040" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -177,7 +174,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30097088" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -185,7 +182,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3297587" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2712238" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -200,11 +197,15 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Dashboard.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        <state relative-caret-position="136">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
           <folding>
             <element signature="e#434#435#0" expanded="true" />
             <element signature="e#486#487#0" expanded="true" />
@@ -214,8 +215,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="42" lean-forward="true" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+        <state relative-caret-position="323">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
         </state>
       </provider>
     </entry>
