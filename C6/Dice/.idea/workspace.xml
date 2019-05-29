@@ -2,15 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e662f63-4ed7-4560-be41-52f798290913" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Triangle/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Triangle/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Triangle/Triangle.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Triangle/src/com/company/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoneFishing/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoneFishing/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoneFishing/GoneFishing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoneFishing/src/com/company/Boat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoneFishingLouis/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoneFishingLouis/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoneFishingLouis/GoneFishingLouis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoneFishingLouis/src/com/company/Boat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rectangle/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rectangle/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rectangle/src/com/company/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TriangleLouis/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TriangleLouis/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TriangleLouis/TriangleLouis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TriangleLouis/src/com/company/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Circle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Circle/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Circle/src/com/company/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Circle/src/com/company/Circle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Circle/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Circle/src/com/company/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Dashboard/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Dashboard/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FootballScore/src/com/company/Score.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FootballScore/src/com/company/Score.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TrafficLight/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TrafficLight/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -82,11 +94,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
-    <option name="y" value="-8" />
-    <option name="width" value="1296" />
-    <option name="height" value="1040" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1098" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -185,10 +197,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1296" height="1040" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2564725" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21275167" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
