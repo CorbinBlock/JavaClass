@@ -16,7 +16,7 @@ public class StringUtil
 
     public int getLength(String string)
     {
-        this.string = stri
+        this.string = string;
 
         int firstChar2 = string.length();
         return firstChar2;
